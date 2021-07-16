@@ -1,6 +1,6 @@
 # Search Videos
 This is a tiny project created by me for learning purposes.
-Checkout the website at https://hashikano.github.io/search-videos/
+Checkout the website at [search-videos](https://github.com/Heikrana/search-videos)
 
 ## What it does...
 You can search videos by keywords, YouTube.com's API is used to provide search results and this whole program is created with ReactJS.
